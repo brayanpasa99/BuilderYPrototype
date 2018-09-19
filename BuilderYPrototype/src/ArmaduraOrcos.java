@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
  *
  * @author Juan Camilo
  */
-public class ArmaduraOrcos implements ArmaduraAdstracta {
+public class ArmaduraOrcos implements ArmaduraAbstracta {
 
     private ImageIcon ImgArmaduraOrcs= new ImageIcon(new ImageIcon(getClass().getResource("/imagenes/ArmaduraO.png")).getImage());
 

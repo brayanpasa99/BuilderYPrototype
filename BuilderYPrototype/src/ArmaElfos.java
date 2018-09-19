@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
  *
  * @author Juan Camilo
  */
-public class ArmaElfos implements ArmaAdstracta {
+public class ArmaElfos implements ArmaAbstracta {
 
     private ImageIcon ImgArmElf= new ImageIcon(new ImageIcon(getClass().getResource("/imagenes/ArmaE.png")).getImage());
     

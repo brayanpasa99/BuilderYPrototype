@@ -9,21 +9,21 @@
  *
  * @author Juan Camilo
  */
-public class FabricaElfos implements FabricaAdstracta {
+public class FabricaElfos implements FabricaAbstracta {
 
     @Override
-    public ArmaAdstracta crearArma() {
+    public ArmaAbstracta crearArma() {
         return new ArmaElfos();
     }
 
     @Override
-    public ArmaduraAdstracta crearArmadura() {
+    public ArmaduraAbstracta crearArmadura() {
         return new ArmaduraElfos();
     }
 
 
     @Override
-    public PersonajeAdstracto crearPersonaje() {
+    public PersonajeAbstracto crearPersonaje() {
         return new PersonajeElfo();
     }
 

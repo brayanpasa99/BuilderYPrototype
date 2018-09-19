@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
  *
  * @author Juan Camilo
  */
-public class PersonajeHumano implements PersonajeAdstracto {
+public class PersonajeHumano implements PersonajeAbstracto {
 
     private ImageIcon ImgPerHum= new ImageIcon(new ImageIcon(getClass().getResource("/imagenes/PersonajeH.png")).getImage());
 

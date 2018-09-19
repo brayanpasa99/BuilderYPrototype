@@ -2,10 +2,10 @@
 public abstract class  ConstrutorPersonaje {
     
     protected Personaje Pers;
-    protected FabricaAdstracta Fabrica;
-    protected ArmaAdstracta Arma;
-    protected ArmaduraAdstracta Armadura;
-    protected PersonajeAdstracto Personaje;
+    protected FabricaAbstracta Fabrica;
+    protected ArmaAbstracta Arma;
+    protected ArmaduraAbstracta Armadura;
+    protected PersonajeAbstracto Personaje;
     
 
     public Personaje getPersonaje() {

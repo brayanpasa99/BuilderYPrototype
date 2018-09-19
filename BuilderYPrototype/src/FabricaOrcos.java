@@ -8,20 +8,20 @@
  *
  * @author Juan Camilo
  */
-public class FabricaOrcos implements FabricaAdstracta {
+public class FabricaOrcos implements FabricaAbstracta {
 
     @Override
-    public ArmaAdstracta crearArma() {
+    public ArmaAbstracta crearArma() {
         return new ArmaOrcos();
     }
 
     @Override
-    public ArmaduraAdstracta crearArmadura() {
+    public ArmaduraAbstracta crearArmadura() {
         return new ArmaduraOrcos();
     }
 
     @Override
-    public PersonajeAdstracto crearPersonaje() {
+    public PersonajeAbstracto crearPersonaje() {
         return new PersonajeOrcos();
     }
 

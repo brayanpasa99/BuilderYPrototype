@@ -4,15 +4,15 @@
  * and open the template in the editor.
  */
 
-
-import javax.swing.ImageIcon;
-
 /**
  *
  * @author Juan Camilo
  */
-public interface ArmaAdstracta {
-
-    public ImageIcon ImagenArma();
-
+public interface FabricaAbstracta {
+    
+    public ArmaAbstracta crearArma();
+    public ArmaduraAbstracta crearArmadura();
+    public PersonajeAbstracto crearPersonaje();
+    
+    
 }

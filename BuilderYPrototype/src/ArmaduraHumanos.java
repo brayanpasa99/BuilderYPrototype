@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
  *
  * @author Juan Camilo
  */
-public class ArmaduraHumanos implements ArmaduraAdstracta {
+public class ArmaduraHumanos implements ArmaduraAbstracta {
 
     private ImageIcon ImgArmaduraHum= new ImageIcon(new ImageIcon(getClass().getResource("/imagenes/ArmaduraH.png")).getImage());
 

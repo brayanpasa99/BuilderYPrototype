@@ -9,21 +9,21 @@
  *
  * @author Juan Camilo
  */
-public class FabricaHumanos implements FabricaAdstracta {
+public class FabricaHumanos implements FabricaAbstracta {
 
     @Override
-    public ArmaAdstracta crearArma() {
+    public ArmaAbstracta crearArma() {
         return new ArmaHumanos();
     }
 
     @Override
-    public ArmaduraAdstracta crearArmadura() {
+    public ArmaduraAbstracta crearArmadura() {
         return new ArmaduraHumanos();
     }
 
 
     @Override
-    public PersonajeAdstracto crearPersonaje() {
+    public PersonajeAbstracto crearPersonaje() {
         return new PersonajeHumano();
     }
 

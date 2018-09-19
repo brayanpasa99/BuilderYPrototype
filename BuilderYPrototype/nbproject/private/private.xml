@@ -2,22 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/DirectorPersonaje.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaduraElfos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ConstrutorPersonaje.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaduraHumanos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaduraAdstracta.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/PersonajeElfo.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaOrcos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/PersonajeOrcos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaElfos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/PersonajeAdstracto.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/PersonajeHumano.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/Personaje.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaHumanos.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/PersonajeCreator.java</file>
-            <file>file:/F:/Proyectos%20GIT/Catálogo%20Personajes/catalogoPersonajes/CatalogoPersojanes2/src/ArmaduraOrcos.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

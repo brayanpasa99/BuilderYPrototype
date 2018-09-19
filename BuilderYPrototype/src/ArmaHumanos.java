@@ -13,7 +13,7 @@ import javax.swing.ImageIcon;
  *
  * @author Juan Camilo
  */
-public class ArmaHumanos implements ArmaAdstracta {
+public class ArmaHumanos implements ArmaAbstracta {
 
     private ImageIcon ImgArmHum= new ImageIcon(new ImageIcon(getClass().getResource("/imagenes/ArmaH.png")).getImage());
 
